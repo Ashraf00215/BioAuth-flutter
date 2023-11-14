@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535394851849",
+    "project_id": "bioauth-48479",
+    "storage_bucket": "bioauth-48479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535394851849:android:8a84bf98483c2adab32cd8",
+        "android_client_info": {
+          "package_name": "com.example.project_bioauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YA4Jf4WkGh1OeLabZK3xqebKpdDK7tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
